@@ -1,9 +1,8 @@
 ## Hi everyone👋 
-Its me Vishal Majumdar
 
-
-**Vishalm20/Vishalm20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--
+**Vishalm20/Vishalm20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
