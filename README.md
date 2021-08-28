@@ -2,9 +2,8 @@
 Its me Vishal Majumdar
 
 
-<!--
 **Vishalm20/Vishalm20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -17,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Subhash ajmera</h1>
+<h1 align="center">Hi 👋, I'm Vishal Majumdar</h1>
 <h3 align="center">i'm self learner !!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skajmera&label=Profile%20views&color=0e75b6&style=flat" alt="skajmera" /> </p>
@@ -25,11 +24,11 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skajmera" alt="skajmera" /></a> </p>
 
 
-- 👋 Hi, I’m @subhash ajmera
+- 👋 Hi, I’m @Vishal Majumdar
 - 👀 I’m interested in ...Know New things
 -🌱 I’m currently learning **everything 🤣**
-- 👨‍💻 All of my projects are available at[https://github.com/skajmera](https://github.com/skajmera)
-- 📫 How to reach me subhashajmera2@gmail.com
+- 👨‍💻 All of my projects are available at[https://github.com/vishalmajumdar95](https://github.com/vishalmajumdar95)
+- 📫 How to reach me vishalm2@navgurukul.org
 - - ⚡ Fun fact **I think I am funny 😂**
 
 ### Blogs posts
